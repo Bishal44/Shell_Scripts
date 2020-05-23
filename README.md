@@ -19,3 +19,10 @@ check 5000
 COMMAND   PID USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 Python    95429  Dell  217u  IPv6 0xe5tab40cfb482b67      0t0  TCP *:http-alt (LISTEN)
 ```
+
+
+
+
+
+
+<h3>``` Second script install salt minion in Debian based all system like Ubuntu ,pop os, mint etc``` </h3>
